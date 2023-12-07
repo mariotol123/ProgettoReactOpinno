@@ -1,0 +1,14 @@
+main{
+    background-image: url("https://i.pinimg.com/originals/da/6d/bd/da6dbd4d374ef7b87e7689397e597470.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main h1{
+    color: white;
+}

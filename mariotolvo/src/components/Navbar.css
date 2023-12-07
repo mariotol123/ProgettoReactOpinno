@@ -1,0 +1,44 @@
+header{
+    display: flex;
+    justify-content: space-evenly;
+    background-image: url("https://img.freepik.com/free-photo/flame-border-background-black-realistic-fire-image_53876-146682.jpg");
+    background-position: bottom;
+}
+
+.neflixImg{
+    height: 100px;
+}
+
+
+
+nav{
+    display: flex;
+    align-items: center;
+}
+
+ul{
+    display:flex;
+    gap: 70px;
+    list-style: none;
+    text-decoration: none;
+}
+
+nav ul li:hover{
+    transform: scale(2.2);
+
+}
+
+nav ul li {
+    transition: all ease-in 0.1;
+}
+
+.navbar-link{
+    text-decoration: none;
+    color: white;
+    font-size: 20px
+}
+
+.navbar-link:hover{
+    color: white;
+    
+}
